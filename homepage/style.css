@@ -1,0 +1,155 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    border-collapse: collapse;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    display: flex;        
+    background-color: rgba(24, 17, 17, 0.7);
+}
+.header a {
+    color: #fff;
+}
+.bi {
+    margin-left: 20px;
+}
+
+.depth_ul {
+    text-align: center;
+    margin-left: 800px;
+    display: flex;
+}
+
+.depth_li {
+    margin-left: 50px;
+}
+
+.header_li {
+    text-align: center;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.header_a1 {
+    height: 130px ; display: table-cell; vertical-align: middle
+}
+.header_a2 {
+    height: 10px ; display: table-cell; vertical-align: middle
+}
+.header_a3 {
+    height: 10px ; display: table-cell; vertical-align: middle
+}
+
+.header_wrap {
+    width: auto;
+    height: 800px;
+    background-color: antiquewhite;
+}
+
+.main_slide1 {
+    width: auto;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+}
+
+.slide_a {
+    color: orange;
+}
+
+.main_slide2 {
+    width: auto;
+    height: 50px;
+    background-color: orange;
+}
+
+.main_slide2 > .slide_li > h2 > .slide_a {
+    color: black;
+}
+
+.main_content {
+    width: auto;
+    height: 800px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.main_db {
+    width: auto;
+    height: 50px;
+    background-color: orange;
+}
+
+.bi_2 > a {
+    color: black;
+}
+
+.mechanism {
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: white;
+}
+
+.mechanism_a {
+    color: #fff;
+}
+
+.main_content2 {
+    width: auto;
+    height: 800px;
+    text-align: center;
+    background-color: white;
+}
+
+.main_occupy {
+    width: auto;
+    height: 800px;
+    text-align: center;
+    background-color: rgb(113, 138, 138);
+}
+
+.main_business {
+    width: auto;
+    height: 800px;
+    text-align: center;
+    background-color: orange;
+}
+
+.main_family {
+    width: auto;
+    height: 800px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.family_li {
+    text-align: center;
+    display: flex;   
+}
+
+.brand_li {
+    display: flex;   
+    margin-left: 30px;
+}
+
+.growth_li {
+    display: flex;
+    margin-left: 30px;
+}
+
+.support_li {
+    display: flex;
+    margin-left: 30px;
+}
+
+.occupy5 {
+    color: orange;
+}
